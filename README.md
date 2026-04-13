@@ -6,7 +6,7 @@
 
 [!\[License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [!\[Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/)
-\[!\[DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)]()
+\[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19548610.svg)](https://doi.org/10.5281/zenodo.19548610)
 
 \---
 
@@ -141,7 +141,7 @@ If you use SAPIR-Net in your research or policy work, please cite:
 SAPIR-Net: Supply Chain Analysis for Pharmaceutical Infrastructure Resilience —
 A Network Model for Quantifying Cascading Vulnerability in the U.S. Generic
 Oncology Drug Supply Chain. Phase 1: Cisplatin, Carboplatin, and Methotrexate.
-April 2026. https://github.com/fahimkazmi911/sapir-net
+April 2026. https://doi.org/10.5281/zenodo.19548610
 ```
 
 \---
