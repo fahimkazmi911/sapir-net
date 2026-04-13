@@ -1,0 +1,13 @@
+Scenario,Drug,HS_Dependency,Mean_Capacity_Loss_pct,Median_Capacity_Loss_pct,P5_Loss_pct,P95_Loss_pct,Prob_Severe_Shortage_pct
+Baseline (No Shock),Cisplatin,284390,0.0,0.0,0.0,0.0,0.0
+Baseline (No Shock),Carboplatin,284390,0.0,0.0,0.0,0.0,0.0
+Baseline (No Shock),Methotrexate,293359,0.0,0.0,0.0,0.0,0.0
+A: Direct Ban (CN+IN),Cisplatin,284390,2.95,2.95,2.95,2.95,0.0
+A: Direct Ban (CN+IN),Carboplatin,284390,2.95,2.95,2.95,2.95,0.0
+A: Direct Ban (CN+IN),Methotrexate,293359,4.58,4.58,4.58,4.58,0.0
+B: Cascading Upstream Shock,Cisplatin,284390,16.81,15.96,11.75,24.79,0.01
+B: Cascading Upstream Shock,Carboplatin,284390,16.81,15.96,11.75,24.79,0.01
+B: Cascading Upstream Shock,Methotrexate,293359,59.01,57.76,51.31,70.91,100.0
+C: Logistics Chokepoint,Cisplatin,284390,22.62,20.05,9.01,45.56,21.03
+C: Logistics Chokepoint,Carboplatin,284390,22.62,20.05,9.01,45.56,21.03
+C: Logistics Chokepoint,Methotrexate,293359,22.62,20.05,9.01,45.56,21.03
