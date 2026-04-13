@@ -5,8 +5,7 @@
 *Quantifying cascading vulnerability in the U.S. generic oncology drug supply chain*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19548610.svg)](https://doi.org/10.5281/zenodo.19548610)
-[!\[Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://www.python.org/)
-\[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19548610.svg)](https://doi.org/10.5281/zenodo.19548610)
+
 
 \---
 
